@@ -1,26 +1,26 @@
-Faithcoin Core integration/staging tree
+Arvcoin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/arvcoin-project/arvcoin.svg?branch=master)](https://travis-ci.org/arvcoin-project/arvcoin)
 
 https://arvcoin.org
 
-What is Faithcoin?
+What is Arvcoin?
 ----------------
 
-Faithcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Faithcoin uses peer-to-peer technology to operate
+Arvcoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Arvcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Faithcoin Core is the name of open source
+out collectively by the network. Arvcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Faithcoin Core software, see [https://arvcoin.org](https://arvcoin.org).
+the Arvcoin Core software, see [https://arvcoin.org](https://arvcoin.org).
 
 License
 -------
 
-Faithcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Arvcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
@@ -28,7 +28,7 @@ Development Process
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/arvcoin-project/arvcoin/tags) are created
-regularly to indicate new official, stable release versions of Faithcoin Core.
+regularly to indicate new official, stable release versions of Arvcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
@@ -71,7 +71,7 @@ Translations
 ------------
 
 We only accept translation fixes that are submitted through [Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-Translations are converted to Faithcoin periodically.
+Translations are converted to Arvcoin periodically.
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
